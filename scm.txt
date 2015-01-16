@@ -1,0 +1,27 @@
+Aggregate Planning
+	Supply Levers when dealing with variation
+		capacity, seasonal inventory, backlog/lost sales
+	Strategies:
+		Chase strategy: vary capacity, no inventory
+		Level strategy: level capacity, vary inventory
+		Tailored stategy: level capacity for base, combination of capacity, inventory, backlog to cover variation
+	Aggregate Planning Process
+		Start with aggregate forecast
+		Identify cost of capacity, inventory, backlog/lost sales
+		Identify resource/supplier/customer constraints
+		Optimize supply given constaints to obtain allocation of capacity, inventory, and backlogs over time
+	Managing Predictable Variability
+		Manage Supply
+			Capacity
+				Time flexibility, seasonal workforce, subcontracting, flexible capacity and counter cyclical products
+			Seasonal Inventory
+				Common components, seasonal inventory of predictable products
+		Manage Demand
+			Pricing
+
+-what is forward buying? Stocking up ahead of time because of a promotion.
+-milk runs
+-names of different distribution strategies
+-periodic review vs. continuous review
+-single order vs double order newsvendor problem
+-what is temporal consolidation?
